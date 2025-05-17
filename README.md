@@ -1,6 +1,7 @@
 # 🧠 User Management API (.NET 9)
 
 A backend RESTful API built with **.NET 9 Web API** and **SQL Server**, designed for managing users, roles, and permissions.
+![Screenshot 2025-05-17 154830](https://github.com/user-attachments/assets/dac074f8-05cc-4f16-954e-9febbb1460a0)
 
 ---
 
