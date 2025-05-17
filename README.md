@@ -56,7 +56,6 @@ A backend RESTful API built with **.NET 9 Web API** and **SQL Server**, designed
 
 ```bash
 git clone https://github.com/Phuripat-dev/UserManagementWebApp.API.git
-cd user-management-api
 ```
 
 ### 2. Configure Database
